@@ -12,9 +12,9 @@ Branch grayscale-biner-histogram
 Isi: Fitur Grayscale, Biner, Histogram
 File: citra_grayscale_biner_histogram.py
 
-Branch edge-dilasi
+Branch edge-erosi
 Isi: Fitur Edge Detection dan Erosi
-File: citra_edge_dilasi.py
+File: citra_edge_erosi.py
 
 Branch aritmatika-logika
 Isi: Fitur Operasi Aritmatika dan Logika
@@ -31,7 +31,7 @@ File: citra_aritmatika_logika.py
 - Thresholding ke **Biner (Binary)**.
 - Menampilkan **Histogram RGB**.
 
-### 🔹 Edge Detection & Erosi (`edge-dilasi`)
+### 🔹 Edge Detection & Erosi (`edge-erosi`)
 - Deteksi tepi dengan metode **Canny**.
 - **Erosi** menggunakan dua jenis elemen struktur:
   - Kotak penuh (3x3)
