@@ -34,8 +34,8 @@ File: citra_aritmatika_logika.py
 ### 🔹 Edge Detection & Erosi (`edge-erosi`)
 - Deteksi tepi dengan metode **Canny**.
 - **Erosi** menggunakan dua jenis elemen struktur:
-  - Kotak penuh (3x3)
-  - Cross (struktur plus)
+  - Tengah Horizontal
+  - Diagonal Cross
 
 ### 🔹 Aritmatika & Logika (`aritmatika-logika`)
 - Penambahan brightness secara **aritmatika** (`cv2.add`).
